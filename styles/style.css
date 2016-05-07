@@ -25,7 +25,8 @@
   }
 
   #navbar {
-    width: 15%;
+    width: 100%;
+    background: rgba(0, 0, 0, .85);
     color: white;
     height: 50px;
     position: fixed;
